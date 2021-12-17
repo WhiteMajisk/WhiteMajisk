@@ -6,7 +6,7 @@
 
 </h4>
 
-<div width="100%">
+<div width="100%" align="center">
   <a href="https://github.com/WhiteMajisk">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WhiteMajisk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteMajisk&layout=compact&langs_count=7&theme=dracula"/>
