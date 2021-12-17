@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" whidth = "100%" height= "200em"> 
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height= "200em"> 
 </h4>
 
  <a href="https://github.com/WhiteMajisk">
